@@ -1,0 +1,1 @@
+Azure Computer Vision to recognize safety violations in uploaded construction images
